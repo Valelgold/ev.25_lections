@@ -39,7 +39,7 @@
 '''Стандартный ввод данных функция imput()'''
 # a = input('Введите число: ')
 # print ('В a хранится: ')
-# print(a)
+# print(input('Введите свое имя: '))
 
-print(input('Введите свое имя: '))
-input = '''jfaklsdjfsadfjfakdfja;f'''
+# text = 'Hello world!\nMy name is John\nIm notrh king\nIm 23 years old\nI love Deyneris'
+# print(text)
