@@ -166,9 +166,23 @@
 # print(text[:4].islower())
 
 
-string = "cow loves good milk"
-result = string.replace('o', 'e', 2)
-print(result)
+# string = "cow loves good milk"
+# result = string.replace('o', 'e', 2)
+# print(result)
 
 # string = "cow loves good milk"
 # print(string.replace('o', 'e', 2))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
