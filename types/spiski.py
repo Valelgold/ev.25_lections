@@ -37,12 +37,7 @@
 # print(ls) 
 
 # extend(iterable) -> расширает список элементами из iterable oblect
-
-# ls = [1, 2, 3]
-# ls.append(['Hello'])
-# print(ls)
-# ls.extend('Hello')
-# print(ls)
+ /
 
 # ls = [1, 2, 3]
 # ls.append([4, 5 ,6])
